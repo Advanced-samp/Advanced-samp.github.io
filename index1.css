@@ -1,0 +1,15 @@
+body {
+	margin: 0px;
+}
+.bg {
+	background-color: #008fff;
+	height: 70px;
+}
+.li1 {
+	display: inline-block;
+	padding: 14px;
+	color: Yellow;
+	font-size: 26px;
+	position: relative;
+	top: 4px;
+}
